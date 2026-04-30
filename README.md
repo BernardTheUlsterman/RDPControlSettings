@@ -2,4 +2,4 @@
 
 An example in German language. 
 
-- Will soon follow here - 
+Will soon follow here
