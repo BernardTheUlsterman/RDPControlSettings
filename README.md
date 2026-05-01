@@ -25,9 +25,7 @@ Hier sollte ein hoher Wert gewählt werden, um die Verbindung nicht vorzeitig ab
 Maximale Anzeigebreite des Remote Desktops  in Pixel (px). Dieser Wert sollte anhand der gewünschten Auflösung und der Auflösung des vorhandenen Monitors gewählt werden. Vorgegeben sind 2000 px. 
 
 - <b> Maximum display height </b> <br>
-Maximale Anzeigehöhe des Remote Desktops in Pixel (px). Dieser Wert sollte anhand der gewünschten Auflösung und der Auflösung des vorhandenen Monitors gewählt werden. Vorgegeben sind 2000 px.
-
-- Wenn Sie die RDP Option Use all my monitors for the remote session verwenden, um mehrere Monitore für den Remote Desktop zu verwenden, beachten Sie bitte, maximale Breite und Höhe der Anzeige entsprechend gross zu dimensionieren damit die Auflösungen aller verwendeten Monitore miteingeschlossen sind.
+Maximale Anzeigehöhe des Remote Desktops in Pixel (px). Dieser Wert sollte anhand der gewünschten Auflösung und der Auflösung des vorhandenen Monitors gewählt werden. Vorgegeben sind 2000 px. <br> Wenn Sie die RDP Option Use all my monitors for the remote session verwenden, um mehrere Monitore für den Remote Desktop zu verwenden, beachten Sie bitte, maximale Breite und Höhe der Anzeige entsprechend gross zu dimensionieren damit die Auflösungen aller verwendeten Monitore miteingeschlossen sind.
 
 - <b> Maximum display depth </b> <br>
 Maximale Farbtiefe in bpp, dieser Wert kann anhand der gewünschten Farbauflösung eingestellt werden.    Werte  für den Remote Desktop sind 15/16 bpp (High Color), 24 bpp (True Color) oder 32 bpp (Deep Color).
