@@ -1,5 +1,7 @@
 # RDP Control Settings
 
+Die Einstellungen für die RDP-Verbindungen befinden sich unter dem Hauptmenü ( <b> Mein Menu </b> )
+
 Erweitern Sie das Hauptmenü unter <b> Main Menu </b> - <b> RDP Control </b> und wählen Sie <b> Settings </b>, um die Einstellungen der RDP-Verbindung zu konfigurieren. 
 
 <img width="1257" height="748" alt="image" src="https://github.com/user-attachments/assets/dd023a53-f914-4f2c-ab84-d74f11a8e70c" />
