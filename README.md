@@ -21,36 +21,36 @@ Für die RDP-Verbindung können Sie in jedem Profil die folgenden Parameter defi
 - <b> Idle timeout </b> <br>
 Hier sollte ein hoher Wert gewählt werden, um die Verbindung nicht vorzeitig abbrechen zu lassen. Vorgegeben sind 600.000 ms (entsprechend 10 min).
 
-<b> Maximum display width </b>
+- <b> Maximum display width </b> <br>
 Maximale Anzeigebreite des Remote Desktops  in Pixel (px). Dieser Wert sollte anhand der gewünschten Auflösung und der Auflösung des vorhandenen Monitors gewählt werden. Vorgegeben sind 2000 px. 
 
-<b> Maximum display height </b>
+- <b> Maximum display height </b> <br>
 Maximale Anzeigehöhe des Remote Desktops in Pixel (px). Dieser Wert sollte anhand der gewünschten Auflösung und der Auflösung des vorhandenen Monitors gewählt werden. Vorgegeben sind 2000 px.
 
-Wenn Sie die RDP Option Use all my monitors for the remote session verwenden, um mehrere Monitore für den Remote Desktop zu verwenden, beachten Sie bitte, maximale Breite und Höhe der Anzeige entsprechend gross zu dimensionieren damit die Auflösungen aller verwendeten Monitore miteingeschlossen sind.
+- Wenn Sie die RDP Option Use all my monitors for the remote session verwenden, um mehrere Monitore für den Remote Desktop zu verwenden, beachten Sie bitte, maximale Breite und Höhe der Anzeige entsprechend gross zu dimensionieren damit die Auflösungen aller verwendeten Monitore miteingeschlossen sind.
 
-<b> Maximum display depth </b>
+- <b> Maximum display depth </b> <br>
 Maximale Farbtiefe in bpp, dieser Wert kann anhand der gewünschten Farbauflösung eingestellt werden.    Werte  für den Remote Desktop sind 15/16 bpp (High Color), 24 bpp (True Color) oder 32 bpp (Deep Color).
 
-<b> Enable RDP 4 </b>
+- <b> Enable RDP 4 </b> <br>
 Wählen Sie diese Option, um Verbindungen mit RDP Version 4 zu ermöglichen.
 
-<b> Enable RDP 5 </b>
+- <b> Enable RDP 5 </b> <br>
 Wählen Sie diese Option, um Verbindungen mit RDP Version 5 zu ermöglichen.
 
-<b> Enable RDP 6 or newer </b>
+- <b> Enable RDP 6 or newer </b> <br>
 Wählen Sie diese Option, um Verbindungen mit RDP ab Version 6  zu ermöglichen.
 
-<b> Enable RDP 4-style authentication </b>
+- <b> Enable RDP 4-style authentication </b> <br>
 Bei Kompatibilitätsproblemen mit RDP ab Version 5 können Sie diese Option wählen um die Authentifizierung wie in RDP 4 durchzuführen.
 
-<b> Enable pre channel check </b>
+- <b> Enable pre channel check </b> <br>
 Vor Herstellung der Verbindung wird geprüft, ob die Verbindung zulässig ist oder ob ihr eine Richtlinie entgegensteht. Wenn die Verbindung nicht zulässig ist, wird sie nicht aufgebaut.
 
-<b> Enable compression </b>
+- <b> Enable compression </b> <br>
 Um die Last auf dem Netzwerk zu begrenzen kann hier die Komprimierung der übertragenen Daten gewählt werden. Ohne Komprimierung kann die Last auf dem Netzwerk bis zu 500% mehr betragen.
 
-<b> Autologon domain suffix </b>
+- <b> Autologon domain suffix </b> <br>
 Für die Verwendung der Autologon-Funktion in Verbindung mit Network Level Authentication  kann hier ein Domain Suffix eingegeben werden. Vorgegeben ist hier der Wert  -AUTO
 
 Nachdem Sie die Einstellungen vorgenommen haben, wählen Sie <b> Commit </b>, um diese zu bestätigen. Anschliessend können Sie dieses Profil in Ihren RDP-Verbindungen auswählen.
