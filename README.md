@@ -8,7 +8,7 @@ Erweitern Sie das Hauptmenü unter <b> Main Menu </b> - <b> RDP Control </b> und
 
 Sie können hier mehrere Profile mit verschiedenen Einstellungen anlegen. Sie haben hier die folgenden Optionen:
 
-<img align="left" width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/14818edc-38f2-4855-a38f-942665163539" /> Wählen Sie diese Schaltfläche, um eine neues Profil für Ihre RDP-Verbindungen zu erstellen. <br> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Im roten Feld geben Sie diesem Profil einen Namen.
+<img align="left" width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/14818edc-38f2-4855-a38f-942665163539" /> Wählen Sie diese Schaltfläche, um eine neues Profil für Ihre RDP-Verbindungen zu erstellen. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Im roten Feld geben Sie diesem Profil einen Namen.
 
 <img align="left" width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/063beb9d-b2e3-43fd-b6dc-40636561f96f" /> Mit dieser Schaltfläche können Sie die Einstellungen des gewählten Profils einblenden.
 
