@@ -18,7 +18,7 @@ Sie können hier mehrere Profile mit verschiedenen Einstellungen anlegen. Sie ha
 
 Für die RDP-Verbindung können Sie in jedem Profil die folgenden Parameter definieren:
 
-- <b> Idle timeout </b>
+- <b> Idle timeout </b> <br>
 Hier sollte ein hoher Wert gewählt werden, um die Verbindung nicht vorzeitig abbrechen zu lassen. Vorgegeben sind 600.000 ms (entsprechend 10 min).
 
 <b> Maximum display width </b>
