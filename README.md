@@ -50,7 +50,7 @@ Vor Herstellung der Verbindung wird geprüft, ob die Verbindung zulässig ist od
 Um die Last auf dem Netzwerk zu begrenzen kann hier die Komprimierung der übertragenen Daten gewählt werden. Ohne Komprimierung kann die Last auf dem Netzwerk bis zu 500% mehr betragen.
 
 - <b> Autologon domain suffix </b> <br>
-Für die Verwendung der Autologon-Funktion in Verbindung mit Network Level Authentication  kann hier ein Domain Suffix eingegeben werden. Vorgegeben ist hier der Wert  -AUTO
+Für die Verwendung der Autologon-Funktion in Verbindung mit Network Level Authentication  kann hier ein Domain Suffix eingegeben werden. Vorgegeben ist hier der Wert '-AUTO'
 
 Nachdem Sie die Einstellungen vorgenommen haben, wählen Sie <b> Commit </b>, um diese zu bestätigen. Anschliessend können Sie dieses Profil in Ihren RDP-Verbindungen auswählen.
 
